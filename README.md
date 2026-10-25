@@ -60,5 +60,3 @@ addresses.
 ## Academic context
 
 This is an academic group assignment. The repository documents the project and its deliverables; the report credits the full group.
-
-> **Privacy note:** The report contains group members' names and student IDs. Review the PDF before keeping it in a public repository. Only publish it after confirming all group members are comfortable with that.
