@@ -41,6 +41,14 @@ loss and an average round-trip time of 1 ms.
 
 ![Successful ping test](connectivity-test.png)
 
+## Routing Configuration
+
+The router's routing table shows static routes to remote
+networks, directly connected interfaces, and local interface
+addresses.
+
+![Router routing table](routing-table.png)
+
 ## Open and test the simulation
 
 1. Install Cisco Packet Tracer.
