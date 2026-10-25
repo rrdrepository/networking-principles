@@ -57,10 +57,6 @@ addresses.
 3. Review router and switch addressing and routing configuration.
 4. Test end-to-end connectivity using ping and traceroute.
 
-## Individual contribution
-
-The report records Radin Mikael's contribution as explaining OSI layers 5–7 and creating the labelled OSI encapsulation and data-flow diagram.
-
 ## Academic context
 
 This is an academic group assignment. The repository documents the project and its deliverables; the report credits the full group.
