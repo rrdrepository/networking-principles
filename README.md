@@ -26,6 +26,13 @@ networking-principles/
 - **`Packet-Tracer/FinalAssessment.pkt`** — Cisco Packet Tracer network simulation.
 - **`Documentation/Networking-Assignment.pdf`** — assignment report with the network design, configuration screenshots, OSI model discussion, reflection, and references.
 
+ ## Network Topology
+
+The network topology below illustrates the Cisco Packet Tracer
+implementation connecting the SET New Building and HUMAC labs.
+
+![Network Topology](image.png)
+
 ## Open and test the simulation
 
 1. Install Cisco Packet Tracer.
