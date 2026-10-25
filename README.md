@@ -17,10 +17,11 @@ This project covers:
 ```text
 networking-principles/
 ├── README.md
-├── Packet-Tracer/
-│   └── FinalAssessment.pkt
-└── Documentation/
-    └── Networking-Assignment.pdf
+├── FinalAssessment.pkt
+├── Networking-Assignment.pdf
+├── image.png
+├── connectivity-test.png
+└── routing-table.png
 ```
 
 - **`Packet-Tracer/FinalAssessment.pkt`** — Cisco Packet Tracer network simulation.
