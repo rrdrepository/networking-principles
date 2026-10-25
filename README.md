@@ -33,6 +33,14 @@ implementation connecting the SET New Building and HUMAC labs.
 
 ![Network Topology](image.png)
 
+## Connectivity Verification
+
+Cross-network connectivity was tested using ICMP ping.
+The test returned four successful replies with zero packet
+loss and an average round-trip time of 1 ms.
+
+![Successful ping test](connectivity-test.png)
+
 ## Open and test the simulation
 
 1. Install Cisco Packet Tracer.
